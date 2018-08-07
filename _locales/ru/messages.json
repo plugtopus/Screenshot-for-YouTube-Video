@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Позволяет сделать скриншот текущего Youtube видео в любой момент, в один клик"
+   },
+   "name": {
+      "message": "Скриншот для Youtube видео"
+   },
+   "shortname": {
+      "message": "Youtube Скриншот"
+   },
+   "title": {
+      "message": "Скриншот"
+   }
+}

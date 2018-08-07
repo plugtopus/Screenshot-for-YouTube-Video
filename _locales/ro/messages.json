@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Take a screenshot of current YouTube video moment with one click"
+   },
+   "name": {
+      "message": "Screenshot for YouTube Video"
+   },
+   "shortname": {
+      "message": "YouTube Screenshot"
+   },
+   "title": {
+      "message": "Screenshot"
+   }
+}
